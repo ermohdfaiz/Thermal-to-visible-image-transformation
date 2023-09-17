@@ -1,5 +1,8 @@
 # Thermal-to-visible-image-translation
 
+https://cvbl.iiita.ac.in/courses/deep-learning/2023/
+DEL23_P05
+
 Deep learning algorithms will be used in the project to produce high-quality visual images from thermal photos.
 An overview of the methodology, data collection, and pre-processing procedures is provided in the report.
 The SSIM and PSNR measurements were used to assess the model.
